@@ -224,7 +224,7 @@ def kick1():
 @requires_auth
 def kick2():
     admin = AdminActions()
-    admin.kick_keg1()
+    admin.kick_keg2()
     return redirect('/admin')
 
 class CalibrateForm(Form):
