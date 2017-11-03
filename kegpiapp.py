@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 from flask import Flask, request, session, g, redirect, url_for, abort, render_template, flash, Response
-from flask.ext.wtf import Form
+from flask_wtf import Form
 from wtforms import StringField, SubmitField
 from wtforms.validators import Required
 from bevdb import *
