@@ -60,13 +60,13 @@ h3 {
 	text-align: center;
 }
 .keg_img {
-	background: #e8e8e8 url('../images/keg.svg') no-repeat center;
+	background: #e8e8e8 url('../glass_styles/keg.svg') no-repeat center;
 }
-.pint_img {background: #e8e8e8 url('./images/pint.svg') no-repeat center;}
-.weizen_img {background: #e8e8e8 url('./images/weizen.svg') no-repeat center;}
-.tulip_img {background: #e8e8e8 url('./images/tulip.svg') no-repeat center;}
-.snifter_img {background: #e8e8e8 url('./images/snifter.svg') no-repeat center;}
-.pilsner_img {background: #e8e8e8 url('./images/pilsner.svg') no-repeat center;}
+.pint_img {background: #e8e8e8 url('./glass_styles/pint.svg') no-repeat center;}
+.weizen_img {background: #e8e8e8 url('./glass_styles/weizen.svg') no-repeat center;}
+.tulip_img {background: #e8e8e8 url('./glass_styles/tulip.svg') no-repeat center;}
+.snifter_img {background: #e8e8e8 url('./glass_styles/snifter.svg') no-repeat center;}
+.pilsner_img {background: #e8e8e8 url('./glass_styles/pilsner.svg') no-repeat center;}
 
 .attributes {
 	flex-flow: row wrap;
